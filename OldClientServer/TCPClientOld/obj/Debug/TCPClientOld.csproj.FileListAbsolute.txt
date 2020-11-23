@@ -1,0 +1,7 @@
+C:\Users\ray-m\source\repos\OldClientServer\TCPClientOld\bin\Debug\TCPClientOld.exe.config
+C:\Users\ray-m\source\repos\OldClientServer\TCPClientOld\bin\Debug\TCPClientOld.exe
+C:\Users\ray-m\source\repos\OldClientServer\TCPClientOld\bin\Debug\TCPClientOld.pdb
+C:\Users\ray-m\source\repos\OldClientServer\TCPClientOld\obj\Debug\TCPClientOld.csprojAssemblyReference.cache
+C:\Users\ray-m\source\repos\OldClientServer\TCPClientOld\obj\Debug\TCPClientOld.csproj.CoreCompileInputs.cache
+C:\Users\ray-m\source\repos\OldClientServer\TCPClientOld\obj\Debug\TCPClientOld.exe
+C:\Users\ray-m\source\repos\OldClientServer\TCPClientOld\obj\Debug\TCPClientOld.pdb

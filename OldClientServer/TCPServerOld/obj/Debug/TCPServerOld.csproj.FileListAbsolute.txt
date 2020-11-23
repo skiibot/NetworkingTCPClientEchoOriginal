@@ -1,0 +1,7 @@
+C:\Users\ray-m\source\repos\OldClientServer\TCPServerOld\bin\Debug\TCPServerOld.exe.config
+C:\Users\ray-m\source\repos\OldClientServer\TCPServerOld\bin\Debug\TCPServerOld.exe
+C:\Users\ray-m\source\repos\OldClientServer\TCPServerOld\bin\Debug\TCPServerOld.pdb
+C:\Users\ray-m\source\repos\OldClientServer\TCPServerOld\obj\Debug\TCPServerOld.csprojAssemblyReference.cache
+C:\Users\ray-m\source\repos\OldClientServer\TCPServerOld\obj\Debug\TCPServerOld.csproj.CoreCompileInputs.cache
+C:\Users\ray-m\source\repos\OldClientServer\TCPServerOld\obj\Debug\TCPServerOld.exe
+C:\Users\ray-m\source\repos\OldClientServer\TCPServerOld\obj\Debug\TCPServerOld.pdb
