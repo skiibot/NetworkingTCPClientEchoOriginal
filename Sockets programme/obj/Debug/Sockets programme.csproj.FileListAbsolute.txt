@@ -1,0 +1,7 @@
+C:\Users\ray-m\source\repos\Sockets programme\obj\Debug\Sockets programme.csprojAssemblyReference.cache
+C:\Users\ray-m\source\repos\Sockets programme\obj\Debug\Sockets programme.csproj.CoreCompileInputs.cache
+C:\Users\ray-m\source\repos\Sockets programme\bin\Debug\Sockets programme.exe.config
+C:\Users\ray-m\source\repos\Sockets programme\bin\Debug\Sockets programme.exe
+C:\Users\ray-m\source\repos\Sockets programme\bin\Debug\Sockets programme.pdb
+C:\Users\ray-m\source\repos\Sockets programme\obj\Debug\Sockets programme.exe
+C:\Users\ray-m\source\repos\Sockets programme\obj\Debug\Sockets programme.pdb
