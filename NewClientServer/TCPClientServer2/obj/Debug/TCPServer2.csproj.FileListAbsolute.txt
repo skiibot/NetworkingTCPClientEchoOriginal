@@ -1,0 +1,7 @@
+C:\Users\ray-m\source\repos\NewClientServer\TCPClientServer2\bin\Debug\TCPClientServer2.exe.config
+C:\Users\ray-m\source\repos\NewClientServer\TCPClientServer2\bin\Debug\TCPClientServer2.exe
+C:\Users\ray-m\source\repos\NewClientServer\TCPClientServer2\bin\Debug\TCPClientServer2.pdb
+C:\Users\ray-m\source\repos\NewClientServer\TCPClientServer2\obj\Debug\TCPServer2.csprojAssemblyReference.cache
+C:\Users\ray-m\source\repos\NewClientServer\TCPClientServer2\obj\Debug\TCPServer2.csproj.CoreCompileInputs.cache
+C:\Users\ray-m\source\repos\NewClientServer\TCPClientServer2\obj\Debug\TCPClientServer2.exe
+C:\Users\ray-m\source\repos\NewClientServer\TCPClientServer2\obj\Debug\TCPClientServer2.pdb
